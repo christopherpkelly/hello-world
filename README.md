@@ -1,2 +1,8 @@
 # hello-world
-Sample Project - GitHub Style
+
+These are some edits.
+
+* As
+* You 
+* Can
+* See
